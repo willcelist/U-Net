@@ -1,2 +1,2 @@
 # Unet_implementation
-implementation of Unet architecture for semantic segmentation
+Implementation of Unet architecture for semantic segmentation
