@@ -1,2 +1,2 @@
-# computer_vision
-implementation of different computer vision algorithms and neural network architectures
+# Unet_implementation
+implementation of Unet architecture for semantic segmentation
